@@ -1,7 +1,7 @@
 using JetBrains.Annotations;
-using mine.calculator.util;
+using mine.calculator.utils;
 
-namespace mine.calculator.model
+namespace mine.calculator.domain
 {
     [UsedImplicitly]
     public class CalculatorModel

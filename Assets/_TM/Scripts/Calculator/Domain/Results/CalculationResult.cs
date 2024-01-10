@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace mine.calculator.model
+namespace mine.calculator.domain
 {
     public class CalculationResult : IResult
     {

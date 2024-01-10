@@ -1,4 +1,4 @@
-namespace mine.calculator
+namespace mine.calculator.domain
 {
     public class ErrorResult : IResult
     {

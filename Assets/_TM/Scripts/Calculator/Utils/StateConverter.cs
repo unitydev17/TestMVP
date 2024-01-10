@@ -1,4 +1,4 @@
-namespace mine.calculator.util
+namespace mine.calculator.utils
 {
     public static class StateConverter
     {

@@ -1,7 +1,7 @@
 using System;
 using UniRx;
 
-namespace mine.calculator
+namespace mine.calculator.domain
 {
     public interface IView
     {

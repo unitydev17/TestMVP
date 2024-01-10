@@ -1,6 +1,6 @@
 using System;
-using mine.calculator.model;
-using mine.calculator.util;
+using mine.calculator.domain;
+using mine.calculator.utils;
 using TMPro;
 using UniRx;
 using UnityEngine;

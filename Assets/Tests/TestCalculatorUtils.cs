@@ -1,4 +1,4 @@
-using mine.calculator.util;
+using mine.calculator.utils;
 using NUnit.Framework;
 
 

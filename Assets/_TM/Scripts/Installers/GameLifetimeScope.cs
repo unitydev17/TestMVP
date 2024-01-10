@@ -1,5 +1,4 @@
-using mine.calculator;
-using mine.calculator.model;
+using mine.calculator.domain;
 using mine.calculator.presenter;
 using mine.calculator.view;
 using VContainer;

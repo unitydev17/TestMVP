@@ -1,5 +1,5 @@
 using System;
-using mine.calculator.model;
+using mine.calculator.domain;
 using UniRx;
 using VContainer;
 using VContainer.Unity;
